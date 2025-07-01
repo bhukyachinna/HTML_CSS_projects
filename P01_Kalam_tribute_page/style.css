@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tribute-container{
+    border: 10px solid #1d1e4c;
+    background-color: #e5e5fd;
+}
+
+.main-container{
+    padding: 100px 470px 50px 470px;
+}
+
+.intro{
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 300px;
+    height: 450px;
+    border-radius: 50%;
+}
+
+.name-div{
+    text-align: end;
+    align-self: flex-end;
+    color: #1d1e4c;
+}
+
+.name-para{
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.year-para{
+    font-size: 35px;
+}
+
+.description{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.title-para{
+    font-size: 80px;
+    margin-bottom: 30px;
+}
+
+.description-para{
+    font-size: 25px;
+    text-align: justify;
+    line-height: 35px;
+}
+
+.name-span{
+    font-weight: bold;
+}
+
+.biographies-para{
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+
+.list-items{
+    padding-left: 70px;
+    line-height: 30px;
+    font-size: 18px;
+}
+
+.wiki-link{
+    text-align: end;
+    margin-top: 20px;
+    font-size: 18px;
+}
