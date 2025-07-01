@@ -1,20 +1,20 @@
-# 💻 Web Development Practice Project
+# Web Development Practice Project
 
-This project is a **clone** of a web layout originally created by [anshuopinion](https://github.com/anshuopinion).  
+This project is a **clone** of a web layout originally created by [anshuopinion](https://github.com/anshuopinion/10-Practice-Project-Html-CSS).  
 It was recreated using only **HTML and CSS** as part of my learning journey in frontend web development.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
-- 📄 Built using: **HTML** and **CSS**
-- 🎯 Purpose: Practice layout structuring, styling, and responsive design
-- 🔁 Inspired from: [anshuopinion](https://github.com/anshuopinion)'s original work
+- Built using: **HTML** and **CSS**
+- Purpose: Practice layout structuring, styling, and responsive design
+- Inspired from: [anshuopinion](https://github.com/anshuopinion/10-Practice-Project-Html-CSS)'s original work
 
 
 ---
 
-## 🛠️ Features
+## Features
 
 - Replicated layout using semantic HTML
 - Custom CSS styling for visual design
@@ -30,5 +30,5 @@ It was recreated using only **HTML and CSS** as part of my learning journey in f
 
 ## Credits
 
-- Original design & concept by [anshuopinion](https://github.com/anshuopinion)
+- Original design & concept by [anshuopinion](https://github.com/anshuopinion/10-Practice-Project-Html-CSS)
 - This version is for **educational purposes only**
