@@ -1,0 +1,55 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#image-section-one{
+    background-image: url("images/image1.png");
+    height: 100vh;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.text-container{
+    position: relative;
+    top: 50%;
+    text-align: center;
+    
+}
+
+.text-area{
+    background-color: grey;
+    color: white;
+    font-size: 45px;
+    padding: 7px 15px;
+    word-spacing: 3px;
+}
+
+.text-section{
+    padding: 50px 85px;
+    text-align: center;
+}
+
+#image-section-two{
+    background-image: url("images/image2.png");
+    height: 450px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#image-section-three{
+    background-image: url("images/image3.png");
+    height: 450px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
